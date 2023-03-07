@@ -1,7 +1,7 @@
 # Here's the code for the phone!
 
 define nvl_mode = "phone"  ##Allow the NVL mode to become a phone conversation
-define MC_Name = "[name]" ##The name of the main character, used to place them on the screen
+define MC_Name = "Riley" ##The name of the main character, used to place them on the screen
 define k_nvl = "Kiko"
 
 init -1 python:
